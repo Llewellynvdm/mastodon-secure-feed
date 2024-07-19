@@ -1,0 +1,13 @@
+.idea
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore Python byte-compiled files
+__pycache__/
+
+# Ignore all pyc files
+*.pyc
+
+# If you have a .env file for environment variables, you might want to ignore that too
+.env
